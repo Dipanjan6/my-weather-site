@@ -30,10 +30,10 @@ body {
   display: grid;
   place-items: center;
   color: white;
-  font-size: 11px;
+  font-size: 21px;
 }
 .text1{
-    
+    font-size: 6px;
     color: #000000;
     position: relative;
     animation: text 3s 1;
